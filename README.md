@@ -17,6 +17,4 @@ Let's build something amazing together! 🚀
 </p>
 
 [![Top
-Langs](https://github-readme-stats.vercel.app/api/top-langs/?usern
-ame=asans2425&layout=compact&theme=tokyonight)](https://github.com
-/asans2425)
+Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nouriHicham174&layout=compact&theme=tokyonight)](https://github.com/nouriHicham174)
