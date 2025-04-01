@@ -1,16 +1,22 @@
-## Hi there 👋
+#  Hicham Nouri Chahid 👋😁  
+### Web Developer & DAW Student  
 
-<!--
-**nouriHicham174/nouriHicham174** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> I'm a web developer and a DAW (Desarrollo de Aplicaciones Web) student with a strong passion for building interactive and functional applications. Over time, I have worked with various technologies, including PHP, JavaScript, SQL, React. Currently, I'm focused on developing a travel memories app that integrates Google Maps and user groups to enhance the experience.
 
-Here are some ideas to get you started:
+- 🔭 Currently working on my **Travel Memories App**  
+  - [Check out the repo here](#) 
+- 🌱 Now learning **Google Maps API** integration and security improvements  
+- 🔐 Implementing **password recovery features** via email  
+- ⚡ Interested in **full-stack development** and improving **database management**  
+- 🛠 Exploring **React and modern frontend frameworks**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Let's build something amazing together! 🚀
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,php,mysql,git,github,vscode,react,symfony,supabase"/>
+</p>
+
+[![Top
+Langs](https://github-readme-stats.vercel.app/api/top-langs/?usern
+ame=asans2425&layout=compact&theme=tokyonight)](https://github.com
+/asans2425)
