@@ -13,7 +13,7 @@
 Let's build something amazing together! 🚀
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,php,mysql,git,github,vscode,react,symfony,supabase"/>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,php,mysql,git,github,vscode,react,symfony,supabase,laravel"/>
 </p>
 
 [![Top
